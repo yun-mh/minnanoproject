@@ -1,0 +1,12 @@
+{
+    "name": "nhs80416/hew",
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "Yun",
+            "email": "canivas@naver.com"
+        }
+    ]
+}

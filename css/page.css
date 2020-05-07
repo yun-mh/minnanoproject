@@ -1,0 +1,130 @@
+.text-shadow {
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.jumbotron {
+	border-radius: 0;
+}
+
+div#jumbotron_about {
+	margin-top: 56px;
+	margin-bottom: 0;
+	background-image: url(../images/about.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.8;
+	width: 100%;
+}
+
+div#jumbotron_profile {
+	margin-top: 56px;
+	margin-bottom: 0;
+	background-image: url(../images/profile.jpg);
+	background-size: cover;
+	opacity: 0.8;
+}
+
+
+div#jumbotron_optout {
+	margin-top: 56px;
+	margin-bottom: 0;
+	background-image: url(../images/optout.jpg);
+	background-size: cover;
+	opacity: 0.8;
+}
+
+div#jumbotron_notice {
+	margin-top: 56px;
+	margin-bottom: 0;
+	background-image: url(../images/notice.jpg);
+	background-size: cover;
+	opacity: 0.8;
+}
+
+div#jumbotron_member {
+	margin-top: 56px;
+	margin-bottom: 0;
+	background-image: url(../images/member.jpg);
+	background-size: cover;
+	opacity: 0.8;
+}
+
+div#jumbotron_project {
+	margin-top: 56px;
+	margin-bottom: 0;
+	background-image: url(../images/project.jpg);
+	background-size: cover;
+	opacity: 0.8;
+}
+
+div#jumbotron_qna {
+	margin-top: 56px;
+	margin-bottom: 0;
+	background-image: url(../images/qna.jpg);
+	background-size: cover;
+	opacity: 0.8;
+}
+
+div#jumbotron_stage {
+	margin-top: 56px;
+	margin-bottom: 0;
+	background-image: url(../images/stage.jpg);
+	background-size: cover;
+	opacity: 0.8;
+}
+
+div#jumbotron_read {
+	margin-top: 56px;
+	margin-bottom: 0;
+	background-image: url(../images/read.jpg);
+	background-size: cover;
+	opacity: 0.8;
+}
+
+div#jumbotron_post {
+	margin-top: 56px;
+	margin-bottom: 0;
+	background-image: url(../images/post.jpg);
+	background-size: cover;
+	opacity: 0.8;
+}
+
+div#jumbotron_edit {
+	margin-top: 56px;
+	margin-bottom: 0;
+	background-image: url(../images/edit.jpg);
+	background-size: cover;
+	opacity: 0.8;
+}
+
+div#jumbotron_search {
+	margin-top: 56px;
+	margin-bottom: 0;
+	background-image: url(../images/search.jpg);
+	background-size: cover;
+	opacity: 0.8;
+}
+
+div#container {
+	margin-top: 30px;
+}
+
+article {
+	min-height: 800px;
+}
+
+#qna {
+	font-size: 14px;
+}
+
+#member {
+	font-size: 14px;
+}
+
+#notice {
+	font-size: 14px;
+}
+
+#stage {
+	font-size: 14px;
+}
